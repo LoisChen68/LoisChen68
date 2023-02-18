@@ -2,6 +2,7 @@
 
 ## About Me
 - 喜歡玩遊戲和音樂以及一切美好事物。
+- 喜歡與社群交流，曾主辦過多場與業界資深工程師的交流會。
 - 喜歡從生活中獲取靈感，並將其呈現在專案上。
 - 前後端都喜歡，但更喜歡前端有畫面反饋的感覺。
 - 在 [AlphaCamp](https://tw.alphacamp.co/) 和 [Udemy](https://www.udemy.com/) 學習 Web 開發。
